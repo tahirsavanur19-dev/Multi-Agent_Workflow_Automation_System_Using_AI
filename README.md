@@ -108,10 +108,20 @@ Improved OCR accuracy
 ---
 
 ## Screenshots
+
+## LOGIN PAGE
 ![LOGIN](https://github.com/user-attachments/assets/51c1745e-bfc6-4514-98d0-a3a7d9edf9f6)
+
+## DASHBOARD PAGE
 ![DASHBOARD](https://github.com/user-attachments/assets/80f57d84-06a2-44a1-93c3-99249f43586c)
+
+## UPLOAD PAGE 
 ![UPLOAD](https://github.com/user-attachments/assets/f01fa2d1-d2c5-4e04-9ffb-116c004847b8)
+
+## RESULT PAGE
 ![RESULT](https://github.com/user-attachments/assets/43255d0e-4ce9-46b8-a3b5-4f67c456301a)
+
+## FRUAD ANALYTICS PAGE
 ![ANALYTICS](https://github.com/user-attachments/assets/9da44b74-4186-4810-a395-a6165c0fac40)
 
 ---
