@@ -1,4 +1,4 @@
-# Multi-Agent Workflow Automation System Using AI
+# AI_Document_Workflow_Project
 
 ## 📌 Project Overview
 This project is an AI-powered document analysis and fraud detection system built using FastAPI. It uses OCR to extract text from uploaded documents/images and applies both rule-based logic and Machine Learning models to detect fraud and generate a risk score.
