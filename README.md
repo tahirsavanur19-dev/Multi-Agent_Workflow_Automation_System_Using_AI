@@ -48,12 +48,12 @@ The system also includes a workflow automation approach where different componen
 
 ## 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/tahirsavanur19-dev/Multi-Agent_Workflow_Automation_System_Using_AI.git
 ```
 
 ## 2. Move into project folder
 ```bash
-cd your-repo
+cd Multi-Agent_Workflow_Automation_System_Using_AI
 ```
 
 ## 3. Install dependencies
@@ -104,6 +104,15 @@ API-based real-time scanning
 Cloud deployment (AWS / Render)
 User authentication system
 Improved OCR accuracy
+
+---
+
+## Screenshots
+![LOGIN](https://github.com/user-attachments/assets/51c1745e-bfc6-4514-98d0-a3a7d9edf9f6)
+![DASHBOARD](https://github.com/user-attachments/assets/80f57d84-06a2-44a1-93c3-99249f43586c)
+![UPLOAD](https://github.com/user-attachments/assets/f01fa2d1-d2c5-4e04-9ffb-116c004847b8)
+![RESULT](https://github.com/user-attachments/assets/43255d0e-4ce9-46b8-a3b5-4f67c456301a)
+![ANALYTICS](https://github.com/user-attachments/assets/9da44b74-4186-4810-a395-a6165c0fac40)
 
 ---
 ## 📌 Note
